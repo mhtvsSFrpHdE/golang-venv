@@ -2,9 +2,7 @@
 
 # golang-venv
 
-This is a joke, but is does the job.  
-So if anyone are really doing the real golang virtual environment and wish to take the repository name,  
-see https://github.com/mhtvsSFrpHdE/contact-me and I will do the transfer.
+This is a joke, but is does the job.
 
 ## What's this
 
